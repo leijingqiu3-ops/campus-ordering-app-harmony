@@ -1,0 +1,20 @@
+/node_modules
+/oh_modules
+/local.properties
+/.idea
+**/build
+/.hvigor
+.cxx
+/.clangd
+/.clang-format
+/.clang-tidy
+**/.test
+/.appanalyzer
+# API密钥配置文件（包含真实密钥，不提交）
+**/Secrets.ets
+**/.preview
+**/.hvigor
+**/oh_modules
+*.hap
+*.zip
+*.app
